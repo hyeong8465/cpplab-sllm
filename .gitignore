@@ -1,0 +1,6 @@
+test
+data
+.venv
+.DS_Store
+.env
+generate_data.ipynb
